@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "pytemperature-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/pytemperature-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "pytemperature_V2-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/pytemperature_V2-eagle-import.kicad_sym")(options "")(descr ""))
+)

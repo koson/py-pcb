@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "py-home-slave-mini-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/py-home-slave-mini-eagle-import.kicad_sym")(options "")(descr ""))
+)
